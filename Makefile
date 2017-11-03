@@ -1,4 +1,4 @@
-# Makefile for iii 
+# Makefile for sudoku 
 # 
 # Includes build rules for sudoku, unblackedges, my_useuarray2, and my_usebit2.
 #
